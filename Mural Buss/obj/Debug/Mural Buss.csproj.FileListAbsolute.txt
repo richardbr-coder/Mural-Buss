@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\obj\Debug\Mural Buss.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\bin\Debug\Mural Buss.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\bin\Debug\Mural Buss.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\bin\Debug\Mural Buss.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\obj\Debug\Mural Buss.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz1 - Practical\Code\Mural Buss\obj\Debug\Mural Buss.pdb
